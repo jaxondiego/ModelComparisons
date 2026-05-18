@@ -1,0 +1,7 @@
+.claude/settings.local.json
+.DS_Store
+.venv/
+results/raw/
+__pycache__/
+*.pyc
+uv.lock
